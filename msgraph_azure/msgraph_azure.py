@@ -34,7 +34,7 @@ class MSGraphAzure:
         return self._output
 
 
-@dataclass(slots=True)
+@dataclass
 class UserInfo:
     name: str
     test_user: bool = field(init=False)
