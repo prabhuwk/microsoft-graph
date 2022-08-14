@@ -1,0 +1,35 @@
+[
+    {
+        "businessPhones": [],
+        "displayName": "TestUser1",
+        "givenName": "Test",
+        "jobTitle": null,
+        "mail": null,
+        "mobilePhone": null,
+        "officeLocation": null,
+        "preferredLanguage": null,
+        "surname": "User1"
+    },
+    {
+        "businessPhones": [],
+        "displayName": "TestUser2",
+        "givenName": "Test",
+        "jobTitle": null,
+        "mail": null,
+        "mobilePhone": null,
+        "officeLocation": null,
+        "preferredLanguage": null,
+        "surname": "User2"
+    },
+    {
+        "businessPhones": [],
+        "displayName": "RegularUser3",
+        "givenName": "Regular",
+        "jobTitle": null,
+        "mail": null,
+        "mobilePhone": null,
+        "officeLocation": null,
+        "preferredLanguage": null,
+        "surname": "User3"
+    }
+]
