@@ -1,5 +1,5 @@
 ![pytest](https://github.com/prabhuwk/msgraph-azure-users/actions/workflows/test.yml/badge.svg)
-![docker build](https://github.com/prabhuwk/msgraph-azure-users/actions/workflows/build.yml/badge.svg)
+![docker build](https://github.com/prabhuwk/msgraph-azure-users/actions/workflows/main.yml/badge.svg)
 
 
 # msgraph-azure-users
